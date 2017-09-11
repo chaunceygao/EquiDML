@@ -1,14 +1,14 @@
 # EquiDML
 EquiDML for person re-id
 
-Code to accompany the paper:
-Equidistance Constrained Metric Learning for Person Re-identification   
-Jin Wang, Zheng Wang, Chao Liang, Changxin Gao*, Nong Sang   
-Pattern Recognition.    
+Code to accompany the paper:     
+Equidistance Constrained Metric Learning for Person Re-identification        
+Jin Wang, Zheng Wang, Chao Liang, Changxin Gao*, Nong Sang       
+Pattern Recognition.      
 
 # Usage
 
-Run '.\demo_viper\demo.m' for testing on VIPeR dataset with LOMO or GOG. The LOMO features are provided for testing. 
+Run '.\demo_viper\demo.m' for testing on VIPeR dataset with LOMO. The LOMO features are provided for testing. 
 
 # Note
 
